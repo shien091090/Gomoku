@@ -1,0 +1,9 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Textures/Atlas_UI.tpsheet
+textureFileNames:
+- Assets/Textures/Atlas_UI.png
+normalmapFileNames:
+- 
+enableDebugOutput: 0

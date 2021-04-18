@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: 6bee74083ac2a5c49b21732e5bbdeb2a
+timeCreated: 1562061306
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: box_black
+    21300002: BT_agree_0
+    21300004: BT_agree_1
+    21300006: BT_close_0
+    21300008: BT_close_1
+    21300010: BT_menu_0
+    21300012: BT_menu_1
+    21300014: BT_quit_0
+    21300016: BT_quit_1
+    21300018: bt_regret_0
+    21300020: bt_regret_1
+    21300022: bt_regret_2
+    21300024: BT_suond_0
+    21300026: BT_suond_1
+    21300028: chess_0
+    21300030: chess_1
+    21300032: coach_bg
+    21300034: effect_chess
+    21300036: game_table
+    21300038: menu_bg
+    21300040: mute_false_icon
+    21300042: mute_true_icon
+    21300044: player_bg
+    21300046: select_icon
+    21300048: start
+    21300050: time_bg
+    21300052: tips_bg
+    21300054: title_bg
+    21300056: txt_bg
+    21300058: wood
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: box_black
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 257
+        width: 113
+        height: 113
+      alignment: 9
+      pivot: {x: 0.50442475, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BT_agree_0
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 593
+        width: 229
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BT_agree_1
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1216
+        width: 229
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BT_close_0
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 470
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BT_close_1
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 407
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BT_menu_0
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1087
+        width: 224
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BT_menu_1
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1030
+        width: 224
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BT_quit_0
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 638
+        width: 97
+        height: 34
+      alignment: 9
+      pivot: {x: 0.49484536, y: 0.5441176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BT_suond_0
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1144
+        width: 167
+        height: 70
+      alignment: 9
+      pivot: {x: 0.497006, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: BT_suond_1
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1144
+        width: 169
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5029586, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chess_0
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 288
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: chess_1
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 232
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: coach_bg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 908
+        width: 659
+        height: 387
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51808786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: effect_chess
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 533
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: game_table
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1297
+        width: 758
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: menu_bg
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 162
+        width: 460
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mute_false_icon
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 601
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mute_true_icon
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 601
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: player_bg
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 235
+        width: 268
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: select_icon
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 344
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: start
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 372
+        width: 611
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: time_bg
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 739
+        width: 284
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tips_bg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 587
+        width: 649
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: title_bg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 626
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: txt_bg
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 674
+        width: 369
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: wood
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 460
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
